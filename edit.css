@@ -239,7 +239,7 @@ replaces the active triggers. Use strength meter for best results*/
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://raw.githubusercontent.com/realkiwii/TrexFinal/master/face.png);
+    background: url(https://raw.githubusercontent.com/realkiwii/TrexFinal/master/buttons.png);
 }
 
 .edit .button.pressed {
